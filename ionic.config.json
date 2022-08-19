@@ -1,0 +1,7 @@
+{
+  "name": "luisangularproyect",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
